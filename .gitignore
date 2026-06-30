@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# 編輯器 / 工具
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Node(若日後加入前端原始碼)
+node_modules/
+dist/
